@@ -16,19 +16,19 @@ format:
 
 website:
   title: "EMDatasets"
-  site-url: "https://ECLIPSE-Lab.github.io/EMDatasets/"
-  description: "Electron Microscopy Datasets"
+  site-url: "https://ECLIPSE-Lab.github.io/EMDatasets"
+  description: "Electron Microscopy datasets"
   twitter-card: true
   open-graph: true
   repo-branch: master
-  repo-url: "https://github.com/ECLIPSE-Lab/EMDatasets/"
+  repo-url: "https://github.com/ECLIPSE-Lab/EMDatasets"
   repo-actions: [issue]
   navbar:
     background: primary
     search: true
     right:
       - icon: github
-        href: "https://github.com/ECLIPSE-Lab/EMDatasets/"
+        href: "https://github.com/ECLIPSE-Lab/EMDatasets"
   sidebar:
     style: "floating"
 
